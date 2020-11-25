@@ -18,7 +18,9 @@ export default {
 <style lang="sass">
   
   body
+    min-height: 100vh
     margin: 0
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%)
     overflow: hidden
   
 </style>
